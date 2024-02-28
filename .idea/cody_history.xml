@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChatHistory">
+    <chats>
+      <list>
+        <chat>
+          <internalId value="702d9db1-8d01-41bc-9610-72d2e843529e" />
+        </chat>
+        <chat>
+          <internalId value="c49ea811-b0e2-4a91-aa9c-379e1976e55a" />
+        </chat>
+        <chat>
+          <internalId value="716201a2-1580-4132-8192-220b7697ecaa" />
+        </chat>
+        <chat>
+          <internalId value="3b0b34ee-54c1-45c9-8eb8-77961a77f7d2" />
+        </chat>
+        <chat>
+          <internalId value="f84a6512-a9c0-4384-973d-cfe28e72a0a3" />
+        </chat>
+        <chat>
+          <internalId value="56caf3ec-19d0-4b46-a3b4-7e8d151b9718" />
+        </chat>
+        <chat>
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/mfl4/ums-s4-ppw" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="334a7447-26c8-418b-ae9e-5b1cd9bcbf7e" />
+        </chat>
+      </list>
+    </chats>
+  </component>
+</project>
