@@ -1,0 +1,1 @@
+SELECT AVG(number_score) 'Average Score' FROM score;
